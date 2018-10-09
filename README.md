@@ -10,11 +10,11 @@ Disclaimer:
 
 ## What is the BORGI Hubmotor?
 
-The BORGI Hubmotor is an opensource, axial-flux, pancake style wheel-hub motor which you can drop in between your cars rims and wheelaxle.
+The BORGI Hubmotor is an open source, axial-flux, pancake style wheel-hub motor which you can drop in between your cars rims and wheelaxle.
 
 In theory you can convert your car from gasoline or diesel to electric hybrid or 100% electric with it.
 
-![Motor Details](https://s3.eu-central-1.amazonaws.com/newforest-website/OC-Borgi-Exp.gif)
+![Motor Details](https://s3.eu-central-1.amazonaws.com/newforest-website/OC-Borgi-Exp-v2.gif)
 
 ## What are the specs?
 
@@ -41,9 +41,9 @@ We will update this readme with more infos on the controller soon.
 
 ## Build instructions
 
-comming soon
+coming soon
 
 
 ## BOM
 
-comming soon
+coming soon
