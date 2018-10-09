@@ -24,6 +24,8 @@ It consists of a 3D-Printed polymer stator which houses the electromagnetic coil
 
 It incorporates a VAG OE-1T0598611 Wheelhub-bearing which is present in quite some VW, AUDI, SKODA & SEAT cars. It's probably easy to adapt it to other kind of wheelhubs/wheelbearings.
 
+![Motor Mounting](https://s3.eu-central-1.amazonaws.com/newforest-website/OC-Bordi-Mount.gif)
+
 The outer diameter of the motor should be compatible with 18" rims. The design is adaptable to other rim diameters.
 
 It weighs approx. 15kg.
@@ -31,8 +33,6 @@ It weighs approx. 15kg.
 Its not fully tested yet but we have run it with 20KW of power and did not notice any significant heat buildup. Our guesstimate is that you can probably run it upto 60KW. When you run it with no load, with 20kw it reaches 10000rpm quick.
 You should not run it higher than 10000 rpm!!! Letting it spin faster is very dangerous and can result in severe injury in case it breaks apart! Make sure to run the motor in a security housing only to prevent any injury or damage to your property!
 If you pump more energy through it make sure there is an appropriate counter force to keep the rpm below 10000 rpm!
-
-![Motor Mounting](https://s3.eu-central-1.amazonaws.com/newforest-website/OC-Bordi-Mount.gif)
 
 ## What kind of motor controller does it work with
 
