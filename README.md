@@ -52,7 +52,9 @@ Download fusion360 here: https://www.autodesk.de/products/fusion-360/students-te
 ## Material to buy to build the BORGI:
 
 28x Nd N45 30x10mm Magnets
+
 21 electromagnets, 7mm thick, 210* 4,6m 0.1mm copperwire
+
 3x Hall Sensor Honeywell SS411A bipolar halleffect switch(latching) sensor
 
 ## Build instructions
