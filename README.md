@@ -30,20 +30,36 @@ The outer diameter of the motor should be compatible with 18" rims. The design i
 
 It weighs approx. 15kg.
 
-Its not fully tested yet but we have run it with 20KW of power and did not notice any significant heat buildup. Our guesstimate is that you can probably run it upto 60KW. When you run it with no load, with 20kw it reaches 10000rpm quick.
-You should not run it higher than 10000 rpm!!! Letting it spin faster is very dangerous and can result in severe injury in case it breaks apart! Make sure to run the motor in a security housing only to prevent any injury or damage to your property!
-If you pump more energy through it make sure there is an appropriate counter force to keep the rpm below 10000 rpm!
+It's not fully tested yet but we have run it with 20KW (300A, 72V with no load) of power and did not notice any significant heat buildup. Our guesstimate is that you can probably run it upto 60KW. When you run it with no load, with 20kw it reaches 10000rpm quick. You should not run it higher than 10000 rpm!!! Letting it spin faster is very dangerous and can result in severe injury in case it breaks apart! Make sure to run the motor in a security housing only to prevent any injury or damage to your property! If you pump more energy through it make sure there is an appropriate counter force to keep the rpm below 10000 rpm!
 
 ## What kind of motor controller does it work with
 
 In theory any kind of dc-motorcontroller should be able to drive it, yet because of its axial flux topology we are still investigating the best way to drive the motor.
 We will update this readme with more infos on the controller soon.
 
+## Building materials
+
+Stator: Hightemp 3D-Printer Co-Polymer (PLA-Lignin mix) should be rated min 120 heat resistant.
+
+Rotor: Any kind of cnc millable aluminuium alloy should work like AlMgSi1
+
+## About the files
+
+We are working with Autodesk Fusion360 for all the CAD and CAM work. It's free for small startups, educators and students and has all the functionality we need. The assembly is available as Fusion360 .f3d file as well as .iges
+
+Download fusion360 here: https://www.autodesk.de/products/fusion-360/students-teachers-educators
+
+## Material to buy to build the BORGI:
+
+28x Nd N45 30x10mm Magnets
+21 electromagnets, 7mm thick, 210* 4,6m 0.1mm copperwire
+3x Hall Sensor Honeywell SS411A bipolar halleffect switch(latching) sensor
+
 ## Build instructions
 
 coming soon
 
-
 ## BOM
 
 coming soon
+
