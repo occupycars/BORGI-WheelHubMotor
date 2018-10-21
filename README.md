@@ -34,20 +34,11 @@ It's not fully tested yet but we have run it with 20KW (300A, 72V with no load) 
 
 ## What kind of motor controller does it work with
 
-In theory any kind of dc-motorcontroller should be able to drive it, yet because of its axial flux topology we are still investigating the best way to drive the motor.
+In theory any kind of brushless, 3phase dc-motorcontroller should be able to drive it, yet because of its axial flux topology we are still investigating the best way to drive the motor.
+For testing you can also wire it as a sensorless, split-stator version and drive it with 7 simple ESC's.
+
 We will update this readme with more infos on the controller soon.
 
-## Building materials
-
-Stator: Hightemp 3D-Printer Co-Polymer (PLA-Lignin mix) should be rated min 120 heat resistant.
-
-Rotor: Any kind of cnc millable aluminuium alloy should work like AlMgSi1
-
-## About the files
-
-We are working with Autodesk Fusion360 for all the CAD and CAM work. It's free for small startups, educators and students and has all the functionality we need. The assembly is available as Fusion360 .f3d file as well as .iges
-
-Download fusion360 here: https://www.autodesk.de/products/fusion-360/students-teachers-educators
 
 ## Material to buy to build the BORGI:
 
@@ -57,6 +48,14 @@ Download fusion360 here: https://www.autodesk.de/products/fusion-360/students-te
 
 3x Hall Sensor Honeywell SS411A bipolar halleffect switch(latching) sensor
 
+## Building materials
+
+Stator:
+- Hightemp 3D-Printer Co-Polymer (PLA-Lignin mix) should be rated min 120 heat resistant.
+- PUR Resin (heat resistant up to 120 degC)
+
+Rotor: Any kind of cnc millable aluminuium alloy should work like AlMgSi1
+
 ## Build instructions
 
 coming soon
@@ -65,3 +64,10 @@ coming soon
 
 coming soon
 
+## About the files
+
+We are working with Autodesk Fusion360 for all the CAD and CAM work. It's free for small startups, educators and students and has all the functionality we need. We know, it's not exactly OpenSource but it is very convenient and not overpriced for what it delivers.
+
+The assembly is available as Fusion360 .f3d file as well as .iges
+
+Download fusion360 here: https://www.autodesk.de/products/fusion-360/students-teachers-educators
